@@ -1,0 +1,1 @@
+# talis_ec2_django_apache_project
